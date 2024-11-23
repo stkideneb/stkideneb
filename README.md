@@ -1,7 +1,7 @@
 # I'm Benedikt Steinfeld #
 
-I'm a software engineer, sharing projects I work on in my spare time.
-I'm currently trying to improve at making websites more interactive
+I'm a software engineer, sharing projects I work on in my spare time. </br>
+I'm currently trying to improve at making websites more interactive </br>
 
 # Tech Stack: #
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
