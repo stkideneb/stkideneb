@@ -1,6 +1,6 @@
 # I'm Benedikt Steinfeld #
 
-I'm a software engineer, sharing projects I work on in my spare time. </br>
+I'm a software developer, sharing projects I work on in my spare time. </br>
 I'm currently trying to improve at making websites more interactive </br>
 
 # Tech Stack: #
