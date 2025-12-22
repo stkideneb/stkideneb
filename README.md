@@ -11,7 +11,6 @@ I'm currently trying to improve at making websites more interactive </br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 # GitHub Stats #
 [![](https://github-readme-stats.vercel.app/api?username=stkideneb)](https://github.com/anuraghazra/github-readme-stats)
