@@ -1,7 +1,7 @@
 # I'm Benedikt Steinfeld #
 
 I'm a software developer, sharing projects I work on in my spare time. </br>
-I'm currently trying to improve at making websites more interactive </br>
+ </br>
 
 # Knowledge: #
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
