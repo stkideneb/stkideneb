@@ -11,6 +11,7 @@ I'm a software developer, sharing projects I work on in my spare time. </br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+C#
 
 # GitHub Stats #
 [![](https://github-readme-stats.vercel.app/api?username=stkideneb)](https://github.com/anuraghazra/github-readme-stats)
